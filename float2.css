@@ -1,0 +1,35 @@
+*{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+header{
+    background-color: seagreen;
+    margin-top: 10px;
+}
+
+main{
+    background-color: skyblue;
+    padding: 5px;
+
+}
+
+aside{
+    background-color: darkorange;
+    width: 25%;
+    height: 300px;
+    float: left;
+    margin-left: 20px;
+
+}
+article{
+    background-color: greenyellow;
+    width: 75%;
+    height: 300px;
+}
+
+footer{
+    background-color: coral;
+}

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+.box1{
+    background-color: darkcyan;
+    float: left;
+    width: 20%;
+}
+.box2{
+    background-color: darkgoldenrod;
+    float: left;
+    width: 10%;
+}
+.box3{
+    background-color: darkorange;
+    float: left;
+    width: 20%;
+}
+
+.clearfix{
+    clear: both;
+}
