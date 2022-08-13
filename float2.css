@@ -37,7 +37,14 @@ footer{
     background-color: coral;
 }
 
-.claerfix{
+/* .claerfix{
     clear:both;
     border: none;
-}
+} */
+
+/* .claerfix::after{
+    content: '';
+    clear: both;
+    display: block;
+    border: none;
+} */
