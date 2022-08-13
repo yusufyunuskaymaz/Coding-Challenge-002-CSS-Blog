@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+
+html{
+    font-size: 30px;
+}
+
+.abs{
+    width: 5cm;
+    background-color: aqua;
+}
+
+.div2{
+    background-color: chocolate;
+    width: 50%;
+}
+.div3{
+    background-color: yellow;
+    width: 50%;
+}
+.div4{
+    font-size: 1em; 16px
+}
+.div5{
+    font-size: 2em; 32px
+
+}
+.div6{
+    font-size: 3em;
+
+}
+.div7{
+    font-size: 1rem;
+
+}
+.div8{
+    font-size: 2rem;
+
+}
+.div9{
+    font-size: 3rem;
+
+}
+
+
+
+
+
+
+
