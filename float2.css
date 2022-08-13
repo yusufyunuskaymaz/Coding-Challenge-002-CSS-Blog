@@ -13,6 +13,8 @@ header{
 main{
     background-color: skyblue;
     padding: 5px;
+    /* height: 350px; */
+    /* overflow: auto; */
 
 }
 
@@ -21,15 +23,21 @@ aside{
     width: 25%;
     height: 300px;
     float: left;
-    margin-left: 20px;
+    margin-left: 10px;
 
 }
 article{
     background-color: greenyellow;
-    width: 75%;
+    width: 70%;
     height: 300px;
+    float: left;
 }
 
 footer{
     background-color: coral;
+}
+
+.claerfix{
+    clear:both;
+    border: none;
 }
